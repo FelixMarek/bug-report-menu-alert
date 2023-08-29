@@ -1,0 +1,8 @@
+{
+  "name": "BugReportMenuAlert",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "86039674"
+}
